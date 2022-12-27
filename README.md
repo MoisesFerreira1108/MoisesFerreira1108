@@ -1,6 +1,8 @@
 Conhecimentos Gerais e Profissionais 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Inicio a Especialização a Linguagem Java Script (TypeScript e NodeJS) E HTML, CSS
+
 Cursando Ciência da Computação, na faculdade (UNISAGRADO)
 
 Curso na linguagem Python básico, na plataforma de Cursos (ICL)
